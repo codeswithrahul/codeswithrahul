@@ -27,9 +27,8 @@
 [![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulchouhan100&show_icons=true&locale=en&layout=compact" alt="rahulchouhan100" /></p> <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeswithrahul&show_icons=true&locale=en&layout=compact" alt="codeswithrahul" /></p> <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulchouhan100&show_icons=true&locale=en" alt="rahulchouhan100" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeswithrahul&show_icons=true&locale=en" alt="codeswithrahul" /></p>
